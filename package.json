@@ -1,0 +1,13 @@
+{
+  "name": "jqueryp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "res/scripts/main.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
